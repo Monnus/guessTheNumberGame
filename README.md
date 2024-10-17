@@ -14,4 +14,6 @@ the Challenge teaches you how to minipulate the DOM elements and set the content
 
 3. Also on the right hand side you have the "highest score" telly from this it keeps count of how many times you've guessed correct.
 
-4. As stated once all chances are used up, on the top left corner click again to start the game oveer
+4. As stated once all chances are used up, on the top left corner click again to start the game oveer.
+
+Note:If perhaps you've given up and want the answer to the mystery number. Open the Web browser console and see the logs. You will find the number. insert it into the answer box ad see the web page change.
