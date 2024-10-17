@@ -8,7 +8,7 @@ the Challenge teaches you how to minipulate the DOM elements and set the content
 
 ## How to use
 
-1. By default a random number is already loaded when the web page opens, all you need to do is insert a number in the number box and click check
+1. By default a random number is already loaded when the web page opens, all you need to do is insert a number in the number box and click "check"
 
 2. Notice to the right, where it says score. Meaning you have have 10 attempts to guess the number correctly. When all attempts finish the game ends.
 
@@ -17,3 +17,11 @@ the Challenge teaches you how to minipulate the DOM elements and set the content
 4. As stated once all chances are used up, on the top left corner click again to start the game oveer.
 
 Note:If perhaps you've given up and want the answer to the mystery number. Open the Web browser console and see the logs. You will find the number. insert it into the answer box ad see the web page change.
+![Guess correct](./src/img/RightAnswer.png)
+
+# How it should look like
+![Guess correct](./src/img/preview.png)
+
+Acess the demo <a herf="HTTPS://MONNUS.GITHUB.IO/GUESSNUMBERTS/" target="_blank" alt="Preview of app">
+
+
