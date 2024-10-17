@@ -16,7 +16,7 @@ the Challenge teaches you how to minipulate the DOM elements and set the content
 
 4. As stated once all chances are used up, on the top left corner click again to start the game oveer.
 
-Note:If perhaps you've given up and want the answer to the mystery number. Open the Web browser console and see the logs. You will find the number. insert it into the answer box ad see the web page change.
+Note:If perhaps you've given up and want the answer to the mystery number. Open the Web browser console and see the logs. You will find the number. insert it into the answer box and see the web page change.
 ![Guess correct](./src/img/RightAnswer.png)
 
 # How it should look like
