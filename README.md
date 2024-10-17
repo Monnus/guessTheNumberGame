@@ -21,6 +21,6 @@ Note:If perhaps you've given up and want the answer to the mystery number. Open 
 ![Guess correct](./src/img/RightAnswer.png)
 
 
-Access the demo <a herf="HTTPS://MONNUS.GITHUB.IO/GUESSNUMBERTS/" target="_blank" alt="Preview of app"> here.</a>
+Access the demo <a href="HTTPS://MONNUS.GITHUB.IO/GUESSNUMBERTS/" target="_blank" alt="Preview of app"> here.</a>
 
 
