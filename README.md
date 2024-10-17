@@ -22,6 +22,6 @@ Note:If perhaps you've given up and want the answer to the mystery number. Open 
 # How it should look like
 ![Guess correct](./src/img/preview.png)
 
-Acess the demo <a herf="HTTPS://MONNUS.GITHUB.IO/GUESSNUMBERTS/" target="_blank" alt="Preview of app">
+Access the demo <a herf="HTTPS://MONNUS.GITHUB.IO/GUESSNUMBERTS/" target="_blank" alt="Preview of app"> here.</a>
 
 
