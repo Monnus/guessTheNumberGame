@@ -3,7 +3,8 @@
 Guess the number game is a game
 is a challange  that I have complete from jonas.io cource 
 the Challenge teaches you how to minipulate the DOM elements and set the contents back to default this challange also introduces refactoring of JS vanilla.
-
+# How it should look like
+![Guess correct](./src/img/preview.png)
 
 
 ## How to use
@@ -19,8 +20,6 @@ the Challenge teaches you how to minipulate the DOM elements and set the content
 Note:If perhaps you've given up and want the answer to the mystery number. Open the Web browser console and see the logs. You will find the number. insert it into the answer box and see the web page change.
 ![Guess correct](./src/img/RightAnswer.png)
 
-# How it should look like
-![Guess correct](./src/img/preview.png)
 
 Access the demo <a herf="HTTPS://MONNUS.GITHUB.IO/GUESSNUMBERTS/" target="_blank" alt="Preview of app"> here.</a>
 
